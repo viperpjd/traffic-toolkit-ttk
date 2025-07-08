@@ -1,4 +1,4 @@
-# 🧰 Traffic Toolkit
+# 🧰 Traffic Toolkit (TTK)
 
 A modular Python-based network traffic toolkit for penetration testers, red teamers, and network engineers. This tool allows you to generate custom packets, replay PCAP files, perform ping sweeps, sniff for TCP responses, and more.
 
