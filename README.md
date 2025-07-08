@@ -75,7 +75,7 @@ MIT License – Use responsibly. This tool is intended for authorized testing an
 ## 👤 Author
 
 **Peter Dunn**  
-Cybersecurity Engineer | Red Team Specialist  
+Senior Cybersecurity Engineer & Red Team Specialist  
 [LinkedIn](https://www.linkedin.com/in/pdunncs/)  
 [GitHub](https://github.com/viperpjd)
 
