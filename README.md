@@ -72,8 +72,6 @@ MIT License – Use responsibly. This tool is intended for authorized testing an
 
 ---
 
----
-
 ## 👤 Author
 
 **Peter Dunn**  
